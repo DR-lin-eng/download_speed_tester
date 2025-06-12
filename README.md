@@ -2,7 +2,9 @@
 可以针对任意下载链接通过32线程的下载方式来测试下载链接的下载速度与稳定性。并且使用图表输出。
 
 ## 输出图表示例
-![download_test_20250612_184235](https://github.com/user-attachments/assets/d8b5f2e7-accd-4654-93a4-c1cd2e8a2f8c)
+![download_test_bettergi linzefeng top_dns_20250612_185736](https://github.com/user-attachments/assets/7dd56073-40ae-4c4a-ae0d-d76ad36d16d4)
+![download_test_bettergi linzefeng top_custom_172 67 138 170_20250612_185612](https://github.com/user-attachments/assets/cc110faf-0d9f-43d8-80c2-4a05c422af62)
+
 
 ## 依赖安装
 pip install requests matplotlib
