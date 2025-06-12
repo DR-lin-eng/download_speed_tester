@@ -59,7 +59,7 @@ class DownloadSpeedTester:
         
         # 确定目标IP和模式
         self.target_ip = custom_ip if custom_ip else None
-        self.connection_mode = "指定IP" if custom_ip else "DNS解析"
+        self.connection_mode = "指定IP" if custom_ip else "默认DNS解析"
         
         # 数据存储
         self.download_speeds = deque()  # (timestamp, speed_mbps)
